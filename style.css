@@ -208,21 +208,21 @@ section {
   color: #220404;
 }
 
-.header .sign-up a {
+.header .sign-up button {
   transform: rotate(360deg);
   border-radius: 2rem;
   background: #fcae36;
   text-decoration: none;
 }
-.header .sign-up a {
+.header .sign-up button {
   color: black;
   font-size: 4rem;
   padding: 9px 18px;
   font-size: 1.2rem;
 }
 
-.header .sign-up a:hover,
-.header .sign-up i:hover {
+.header .sign-up button:hover,
+.header .sign-up button:hover {
   box-shadow: 0 0 5px #fcae36, 0 0 25px #fcae36, 0 0 50px #fcae36,
     0 0 100px #fcae36, 0 0 200px #fcae36;
   color: #fff;
