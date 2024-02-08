@@ -626,7 +626,7 @@ section {
 form textarea {
   border: none;
   outline: none;
-  width: 80%;
+  width: 100%;
   padding: 10px;
   background: #fcf9f4;
   color: #220404;
